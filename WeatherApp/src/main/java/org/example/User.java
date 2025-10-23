@@ -16,6 +16,7 @@ public class User {
     }
 
     public String getCity() {
+        System.out.println(city);
         return city;
     }
 
