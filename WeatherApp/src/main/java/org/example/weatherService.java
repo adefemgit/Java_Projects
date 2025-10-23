@@ -10,7 +10,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class weatherService {
-   private final String apiKey = "a6c461f9c30b4e20893bc185a0906810";
+   private final String apiKey = "a6c461f9c30b4e20893bc185a09068";
 
    public weatherApp getWeather(String city) {
 
